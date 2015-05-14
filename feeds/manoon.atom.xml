@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Mannon Essay</title><link href="/" rel="alternate"></link><link href="/feeds/manoon.atom.xml" rel="self"></link><id>/</id><updated>2015-05-14T00:00:00+02:00</updated><entry><title>Japanese Review Diary</title><link href="/japanese-review-diary.html" rel="alternate"></link><updated>2015-05-14T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-14:japanese-review-diary.html</id><summary type="html">&lt;hr /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mannon Essay</title><link href="/" rel="alternate"></link><link href="/feeds/manoon.atom.xml" rel="self"></link><id>/</id><updated>2015-05-14T00:00:00+02:00</updated><entry><title>crontab and iptables</title><link href="/crontab-and-iptables.html" rel="alternate"></link><updated>2015-05-14T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-14:crontab-and-iptables.html</id><summary type="html">&lt;h2&gt;crontab 和 iptables&lt;/h2&gt;
+&lt;h3&gt;crontab&lt;/h3&gt;
+&lt;p&gt;非常奇怪，在一台VPS 上面，总是不能正常执行。
+同样的脚本在另外一台VPS上就一切正常，一并搞定他。&lt;/p&gt;
+&lt;h3&gt;iptables&lt;/h3&gt;
+&lt;p&gt;部署Cisco 的AnyConnect的时候，被这个东西卡住了。
+CenotOS 7 里面貌似新增加了一个叫Firewalld 的东西，一并研究掉。&lt;/p&gt;</summary></entry><entry><title>Japanese Review Diary</title><link href="/japanese-review-diary.html" rel="alternate"></link><updated>2015-05-14T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-14:japanese-review-diary.html</id><summary type="html">&lt;hr /&gt;
 &lt;h1&gt;SECTION 1 ------ From 日本語　App&lt;/h1&gt;
 &lt;h2&gt;Words for today&lt;/h2&gt;
 &lt;p&gt;こんにちは   Hello       今日は 今日はこんにちは&lt;/p&gt;
@@ -131,7 +137,8 @@ A：私も行きたいなあ。&lt;/p&gt;
 &lt;p&gt;パス　１
 北海道　ほっかいどう　３&lt;/p&gt;
 &lt;p&gt;何何　ために
-入場券を手に入れるために、朝早くから並んだ。&lt;/p&gt;</summary></entry><entry><title>阳光甚好，我却感受到了前所未有的艰难</title><link href="/yang-guang-shen-hao-wo-que-gan-shou-dao-liao-qian-suo-wei-you-de-jian-nan.html" rel="alternate"></link><updated>2015-05-13T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-13:yang-guang-shen-hao-wo-que-gan-shou-dao-liao-qian-suo-wei-you-de-jian-nan.html</id><summary type="html">&lt;p&gt;昨晚睡前非常娇情地在朋友圈更新了一条Moments&lt;/p&gt;
+入場券を手に入れるために、朝早くから並んだ。&lt;/p&gt;</summary></entry><entry><title>Solitary Zhang yimou</title><link href="/solitary-zhang-yimou.html" rel="alternate"></link><updated>2015-05-14T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-14:solitary-zhang-yimou.html</id><summary type="html">&lt;h3&gt;孤独张艺谋&lt;/h3&gt;
+&lt;p&gt;陕北汉子的形象&lt;/p&gt;</summary></entry><entry><title>阳光甚好，我却感受到了前所未有的艰难</title><link href="/yang-guang-shen-hao-wo-que-gan-shou-dao-liao-qian-suo-wei-you-de-jian-nan.html" rel="alternate"></link><updated>2015-05-13T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-13:yang-guang-shen-hao-wo-que-gan-shou-dao-liao-qian-suo-wei-you-de-jian-nan.html</id><summary type="html">&lt;p&gt;昨晚睡前非常娇情地在朋友圈更新了一条Moments&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;生まれて、すいません(人生苦短，请原谅我的一事/世无成/尘)&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -683,77 +690,4 @@ horizontal alignment&lt;/p&gt;
 &lt;p&gt;这一晃好多年，好多年以前，黑客产业链还没这么发达。貌似大部分都都还是处在学习糊口以及装逼耍酷泡妹纸的状态。SUNWEAR我是见过照片的，的确是个富二代。当时忘记是被他挖出一个什么0DAY出来了，各种兴奋。 岁月的猪猪好像是西安的，我在西安的时候曾有过要去拜访他的念头。&lt;/p&gt;
 &lt;p&gt;还有鹰缘的JANE，当时负责鹰盟NGO的一些事情。很漂亮的一个女孩子，也是在西安。&lt;/p&gt;
 &lt;p&gt;感慨一下，如果根据10000小时的概念，我一直坚持下来，现在也应该会是个小黑客。&lt;/p&gt;
-&lt;p&gt;今天是什么日子？ R.I.P&lt;/p&gt;</summary></entry><entry><title>Tomorow Get up Eary</title><link href="/tomorow-get-up-eary.html" rel="alternate"></link><updated>2014-05-30T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2014-05-30:tomorow-get-up-eary.html</id><summary type="html">&lt;p&gt;Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary
-Get p eary,eary,eary&lt;/p&gt;</summary></entry><entry><title>another work category</title><link href="/another-work-category.html" rel="alternate"></link><updated>2014-05-29T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2014-05-29:another-work-category.html</id><summary type="html">&lt;p&gt;work 21 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test
-work 1 test&lt;/p&gt;</summary></entry><entry><title>language category</title><link href="/language-category.html" rel="alternate"></link><updated>2014-05-29T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2014-05-29:language-category.html</id><summary type="html">&lt;p&gt;life category&lt;/p&gt;</summary></entry><entry><title>life category test</title><link href="/life-category-test.html" rel="alternate"></link><updated>2014-05-29T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2014-05-29:life-category-test.html</id><summary type="html">&lt;p&gt;life category
-life content more
-life article 2&lt;/p&gt;</summary></entry><entry><title>something about my life</title><link href="/something-about-my-life.html" rel="alternate"></link><updated>2014-05-29T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2014-05-29:something-about-my-life.html</id><summary type="html">&lt;p&gt;do some category test here&lt;/p&gt;</summary></entry><entry><title>Thinking in bus</title><link href="/thinking-in-bus.html" rel="alternate"></link><updated>2014-05-29T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2014-05-29:thinking-in-bus.html</id><summary type="html">&lt;p&gt;I was in a bus
-公交车上面吹风&lt;/p&gt;</summary></entry><entry><title>work category</title><link href="/work-category.html" rel="alternate"></link><updated>2014-05-29T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2014-05-29:work-category.html</id><summary type="html">&lt;p&gt;work 1 test
-work 1 test&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;今天是什么日子？ R.I.P&lt;/p&gt;</summary></entry></feed>
