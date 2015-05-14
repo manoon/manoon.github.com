@@ -1,5 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Mannon Essay</title><link href="/" rel="alternate"></link><link href="/feeds/manoon.atom.xml" rel="self"></link><id>/</id><updated>2015-05-13T00:00:00+02:00</updated><entry><title>阳光甚好，我却感受到了前所未有的艰难</title><link href="/yang-guang-shen-hao-wo-que-gan-shou-dao-liao-qian-suo-wei-you-de-jian-nan.html" rel="alternate"></link><updated>2015-05-13T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-13:yang-guang-shen-hao-wo-que-gan-shou-dao-liao-qian-suo-wei-you-de-jian-nan.html</id><summary type="html">&lt;p&gt;昨晚睡前非常娇情地在朋友圈更新了一条Moments&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Mannon Essay</title><link href="/" rel="alternate"></link><link href="/feeds/manoon.atom.xml" rel="self"></link><id>/</id><updated>2015-05-14T00:00:00+02:00</updated><entry><title>Japanese Review Diary</title><link href="/japanese-review-diary.html" rel="alternate"></link><updated>2015-05-14T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-14:japanese-review-diary.html</id><summary type="html">&lt;hr /&gt;
+&lt;h1&gt;SECTION 1 ------ From 日本語　App&lt;/h1&gt;
+&lt;h2&gt;Words for today&lt;/h2&gt;
+&lt;p&gt;こんにちは   Hello       今日は 今日はこんにちは&lt;/p&gt;
+&lt;p&gt;ありがとう   Thanks  ありがとうありがとうありがとう&lt;/p&gt;
+&lt;p&gt;どういたしまして    You're welcomed　どういたしまして　どういたしまして&lt;/p&gt;
+&lt;p&gt;どうぞ     Please  どうぞ どうぞ どうぞ&lt;/p&gt;
+&lt;p&gt;すみません   Sorry       すみません   すみません　すみません&lt;/p&gt;
+&lt;p&gt;さようなら   Good Bye    さようなら   さようなら&lt;/p&gt;
+&lt;p&gt;はい  Yes はい  はい  はい&lt;/p&gt;
+&lt;p&gt;いいえ     No  いいえ いいえ いいえ&lt;/p&gt;
+&lt;p&gt;よい  Good    よい  よい  よい&lt;/p&gt;
+&lt;p&gt;おいしい    Delicious   美味しい    美味しい　おいしい&lt;/p&gt;
+&lt;p&gt;にほんご Japanese   日本語 日本語 日本語&lt;/p&gt;
+&lt;p&gt;にほん  Japan  日本  にほん 日本  にほん　日本&lt;/p&gt;
+&lt;p&gt;とうきょう Tokyo　東京  東京  とうきょう&lt;/p&gt;
+&lt;p&gt;きょうと    Kyoto   京都  きょうと    きょうと&lt;/p&gt;
+&lt;p&gt;おさか     Osaka   大坂おさか　大坂　大坂&lt;/p&gt;
+&lt;p&gt;とても  Very   とても　とても　とても　とても&lt;/p&gt;
+&lt;p&gt;とてもよい Very Good　とても良い　とても良い　とてもよい&lt;/p&gt;
+&lt;p&gt;わるい     Bad　悪い　悪い　わるい　悪い&lt;/p&gt;
+&lt;p&gt;おはよう    Good morning　おはよう　おはよう　おはよう&lt;/p&gt;
+&lt;p&gt;こんばんは Good evening 今晩は　こんばは　こんばは　今晩は&lt;/p&gt;
+&lt;p&gt;おやすみなさい Good night&lt;/p&gt;
+&lt;p&gt;ども、ありがとうございます Thankyou very much
+ども、ありがとうごさいます　ども、ありがとう。&lt;/p&gt;
+&lt;p&gt;かんぱい Cheers 乾杯　乾杯　乾杯　かんぱい　乾杯&lt;/p&gt;
+&lt;p&gt;いただきます      I humbly Recevie　頂きます　頂きます　いただきます　頂きます&lt;/p&gt;
+&lt;p&gt;これ  This　これ　これ　これ　これ&lt;/p&gt;
+&lt;p&gt;それ  That　それ　それ　それ　それ　&lt;/p&gt;
+&lt;p&gt;あれ  That,Over there　あれ　あれ　　あれ　あれ　あれ&lt;/p&gt;
+&lt;p&gt;これはおいしいです　It's delicious これは　美味しいです　これは　おいしいです　これは　美味しいです&lt;/p&gt;
+&lt;p&gt;ここ  This　ここ　ここ　ここ　ここ　ここ&lt;/p&gt;
+&lt;p&gt;そこ There　そこ　そこ　そこ　　そこ　　そこ　&lt;/p&gt;
+&lt;p&gt;あそこ     Over there　あそこ　あそこ　あそこ　あそこ　あそこ　&lt;/p&gt;
+&lt;p&gt;ひとつ 2 One   ひとつ　一つ　一つ　一つ　一つ　ひとつ&lt;/p&gt;
+&lt;p&gt;ふたつ Two　二つ　二つ　二つ　二つ　２つ　ふたつ&lt;/p&gt;
+&lt;p&gt;わたし I 　わたし　　私　私　私　わたし　わたし　&lt;/p&gt;
+&lt;p&gt;あなた 2 You　あなた　あなた　あなた　あなた　&lt;/p&gt;
+&lt;p&gt;あい　1 Love   愛　愛　愛　愛　愛　あい
+　あい　&lt;/p&gt;
+&lt;p&gt;あいしてる I love u  愛している　愛してる　愛してる　あいしてる　愛してる&lt;/p&gt;
+&lt;p&gt;ごめんなさい I am very sorry　ごめんなさい　ごめんなさい　ごめんなさい&lt;/p&gt;
+&lt;p&gt;お金　Money 0 お金　お金　お金　お金　お金　おかね&lt;/p&gt;
+&lt;p&gt;もんだいありません   No problem　問題ありません　もんだいありません　問題ありません&lt;/p&gt;
+&lt;p&gt;ようこそ    Welcome　ようこそ　ようこそ　ようこそ　ようこそ&lt;/p&gt;
+&lt;p&gt;いらっしゃいません       Welcome いらっしゃいません　いらっしゃいません　いらっしゃいません　&lt;/p&gt;
+&lt;p&gt;おめでとうございます      Congratulations　おめでとうございます おめでとうございます　おめでとうございます　おめでとうございます&lt;/p&gt;
+&lt;p&gt;すごい     Awesome Very good   凄い　凄い　すごい　すごい　凄い　すごい&lt;/p&gt;
+&lt;p&gt;たすけて    Help　助けて　助けて　助けて　助けて　たすけて&lt;/p&gt;
+&lt;p&gt;しつれいしました Excuse me　失礼しました　失礼しました　失礼しました　失礼しました&lt;/p&gt;
+&lt;p&gt;おげんきですか  How r u doing　お元気ですか　お元気ですか　お元気ですか　おげんきですか　&lt;/p&gt;
+&lt;p&gt;はい、げんきです Yes,I am fine　はい、元気てす。　はい、　元気です。　はい、元気です。&lt;/p&gt;
+&lt;p&gt;すこし 2    A little,few　少し　すこし　少し　少し　少し　すこし　少し&lt;/p&gt;
+&lt;p&gt;いま  Now　イマ　今　イマ　今　いま　今　今　&lt;/p&gt;
+&lt;p&gt;あとで     1 Later　後で　後で　後で　後で　あとで　後で&lt;/p&gt;
+&lt;p&gt;きょう     1 Today 　今日　今日　今日　きょう　きょう　今日&lt;/p&gt;
+&lt;p&gt;こんや     Tonight　今夜　今夜　今夜　こんや　こんや　今夜&lt;/p&gt;
+&lt;p&gt;あす・あした      Tomorrow　明日　明日　明日　明日　明日　あした　あす　あした&lt;/p&gt;
+&lt;p&gt;どこからしましたか       Where r u from　何処からしましたか　何処からしましたか　どこからしましたか&lt;/p&gt;
+&lt;p&gt;出身です    I am from 出身です　出身です　しゅっしん　出身です　しゅっしんです&lt;/p&gt;
+&lt;p&gt;私の名前は   My name is　私の名前は　私の名前は　私の名前は&lt;/p&gt;
+&lt;p&gt;初めまして       Nice to meet u 初めまして　　初めまして　初めまして　はじめまして&lt;/p&gt;
+&lt;p&gt;ともだち    Frnds　トモダチ　友達　ともだち　友達　友達　友達&lt;/p&gt;
+&lt;p&gt;うち  House　うち　家　家　うち　うち　うち&lt;/p&gt;
+&lt;p&gt;どうろ     Road　道路　どうろ　道路　道路　道路　道路　どうろ&lt;/p&gt;
+&lt;p&gt;とり&lt;/p&gt;
+&lt;p&gt;とおり     Street　通り　とおり　通り　とおり　通り　とおり&lt;/p&gt;
+&lt;p&gt;すきです    Like　好きです　好きです　好きです　好きです　好きです&lt;/p&gt;
+&lt;p&gt;すきではありません   I don't Like　すきではありません　好きではありません　すきではありません　好きではありません　すきではありません　好きではありません&lt;/p&gt;
+&lt;p&gt;えいぎょうちゅう　Open　営業中　営業中　営業中　営業中　営業中　えいぎょうちゅう&lt;/p&gt;
+&lt;p&gt;すきですか   Do u like?　好きですか　好きですか　好きですか　好きですか　すきですか&lt;/p&gt;
+&lt;p&gt;よかった     That's good  良かった　良かった　よかった　好かった&lt;/p&gt;
+&lt;p&gt;わかります   I know,Understand   　わかります　わかります　わかります　分かります&lt;/p&gt;
+&lt;p&gt;わかりません      I dont' know, Do not understand　わかりません　わかりません　わかりません　分かりません&lt;/p&gt;
+&lt;p&gt;お勘定おねがいします　I pay for it,the check, pls お勘定お願いします　お勘定お願いします　お勘定お願いします　お勘定お願いします お勘定お願いします　おかんじょうおねかいします&lt;/p&gt;
+&lt;p&gt;なに? What　なに　何　何　なに　なに　何　何　なに&lt;/p&gt;
+&lt;p&gt;いつ？ When　いつ　何時　何時　いつ　何時　何時　何時　いつ　&lt;/p&gt;
+&lt;p&gt;はどこですか？ Where is …　は何処ですか　は何処ですか　は何処ですか　は何処ですか&lt;/p&gt;
+&lt;p&gt;お手洗いはデコですか  Where is the bathroom　お手洗いは　何処ですか　お手洗いは　何処ですか　お手洗いは　何処ですか　お手洗いは　何処ですか&lt;/p&gt;
+&lt;p&gt;あれは何ですか What's that　あれは何ですか　あれは何ですか　あれは何ですか　あれは何ですか&lt;/p&gt;
+&lt;p&gt;うつくしい   Beautiful　美しい　美しい　うつくしい　美しい　美しい&lt;/p&gt;
+&lt;p&gt;おおきい Big,Large　大きい　大きい　大きい　大きい　大きい　大きい&lt;/p&gt;
+&lt;p&gt;ちいさい    Small,Litte 小さい　小さい　小さい　小さい　ちいさい&lt;/p&gt;
+&lt;p&gt;たかい     High,Expensive　高い　高い　高い　たかい　高い　高い&lt;/p&gt;
+&lt;p&gt;やすい     Cheap,Easy  　やすい　やすい　やすい　安い　安い　安い&lt;/p&gt;
+&lt;p&gt;みず  Water　水　水　水　みず　水　水　みず　&lt;/p&gt;
+&lt;p&gt;コーヒー    Coffee  コーヒー　コーヒー　コーヒー　コーヒー　コーヒー&lt;/p&gt;
+&lt;p&gt;おちゃ     Tea お茶　お茶　お茶　おちゃ　おちゃ　おちゃ　お茶&lt;/p&gt;
+&lt;p&gt;いくつ     1 How many 幾つ　いくつ　いくつ　いくつ　幾つ　幾つ　幾つ&lt;/p&gt;
+&lt;p&gt;いくら     how　much いくら　いくら　幾ら　幾ら　幾ら　イクラ&lt;/p&gt;
+&lt;p&gt;いくらですか      How much　いくらですか　いくらですか　いくらですか　いくらですか　&lt;/p&gt;
+&lt;p&gt;えん  Yen,Money ,curreny　円　円　えん　円　えん　円&lt;/p&gt;
+&lt;p&gt;おおくの    Many 多くの　多くの　多くの　おおくの　多くの&lt;/p&gt;
+&lt;p&gt;おとこのひと Man　男のと　男の人　男の人　おとこのひと&lt;/p&gt;
+&lt;p&gt;おんなのひと  Woman　女の人　女の人　女の人　女の人　女の人　おんなのひと&lt;/p&gt;
+&lt;p&gt;おとこのこ   Boy　男の子　男の子　おとこのこ　男の子　男の子　男の子&lt;/p&gt;
+&lt;p&gt;おんなのこ   Girl　女の子　女の子　女の子　女の子　おんなのこ　女の子&lt;/p&gt;
+&lt;p&gt;とし  City　都市　都市　都市　都市　都市　とし　都市&lt;/p&gt;
+&lt;p&gt;いぬ  Dog　犬　犬　犬　犬　いぬ　犬　犬　いぬ&lt;/p&gt;
+&lt;p&gt;ねこ  Cat　猫　ねこ　ネコ　ねこ　猫　猫　猫　猫&lt;/p&gt;
+&lt;p&gt;ぱーてぃー　Party パーティー　パーティー　パーティー　パーテイー&lt;/p&gt;
+&lt;p&gt;とうきょう　とっきょ　きょかきょく　Tongue Twister:Tokyo speical patent office　東京特許許可局　東京特許許可局　東京特許許可局　東京特許許可局　とうきょうとっきょきょかきょく　東京特許許可局&lt;/p&gt;
+&lt;p&gt;ない  Not　ない　ない　無い　ない　ない　ない　ない&lt;/p&gt;
+&lt;p&gt;おかんじょう　おねがいします　Theck check ,pls　お勘定　お願いします　お勘定お願いします　お勘定お願いします　お勘定お願いします&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h1&gt;SECTION 2 ------ From 流利说　App&lt;/h1&gt;
+&lt;h2&gt;目が悪いです&lt;/h2&gt;
+&lt;h3&gt;会話&lt;/h3&gt;
+&lt;p&gt;A：あれ、メガネをかけてる。
+B：もともと　目が悪いんです。
+A：でも普段はかけてないでしょ。
+B：パソコンを見る時です、メガネをかけいています。
+A：私も目が悪いですけど、コンタクト派です。&lt;/p&gt;
+&lt;h3&gt;単語&lt;/h3&gt;
+&lt;p&gt;もともと　〇
+普段　ふだん　１
+コンタクト　１
+派　は　&lt;/p&gt;
+&lt;h2&gt;貯金します&lt;/h2&gt;
+&lt;h3&gt;会話&lt;/h3&gt;
+&lt;p&gt;A：週末、遊びに行きませんか。
+B：パス。
+A：え、どうしたの？
+B：旅行に行くために貯金中です。
+A：どこに行きますか。
+B：北海道　北海道。ほっかいどう。
+A：私も行きたいなあ。&lt;/p&gt;
+&lt;h3&gt;単語&lt;/h3&gt;
+&lt;p&gt;パス　１
+北海道　ほっかいどう　３&lt;/p&gt;
+&lt;p&gt;何何　ために
+入場券を手に入れるために、朝早くから並んだ。&lt;/p&gt;</summary></entry><entry><title>阳光甚好，我却感受到了前所未有的艰难</title><link href="/yang-guang-shen-hao-wo-que-gan-shou-dao-liao-qian-suo-wei-you-de-jian-nan.html" rel="alternate"></link><updated>2015-05-13T00:00:00+02:00</updated><author><name>manoon</name></author><id>tag:,2015-05-13:yang-guang-shen-hao-wo-que-gan-shou-dao-liao-qian-suo-wei-you-de-jian-nan.html</id><summary type="html">&lt;p&gt;昨晚睡前非常娇情地在朋友圈更新了一条Moments&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;生まれて、すいません(人生苦短，请原谅我的一事/世无成/尘)&lt;/p&gt;
 &lt;/blockquote&gt;
